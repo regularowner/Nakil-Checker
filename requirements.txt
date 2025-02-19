@@ -1,0 +1,6 @@
+selenium==4.18.1
+customtkinter==5.2.2
+webdriver_manager==4.0.1
+colorama==0.4.6
+pystray==0.19.5
+Pillow==10.2.0 
